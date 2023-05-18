@@ -22,7 +22,7 @@
 ##
  
 <div> 
-  <a href="https://www.instagram.com/leonardovii2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/leonardovii2/" target="_blank"><img src="https://discord.com/channels/837854557676503040/1108569174688682006/1108569361750442055" target="_blank"></a>
   
   ##
 
