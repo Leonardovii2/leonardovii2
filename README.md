@@ -16,7 +16,7 @@
           
   
   <img align="right" alt="Josiel-pic" height="150" style="border-radius:50px;" 
-  src="https://discord.com/channels/837854557676503040/1108569174688682006/1108569361750442055">
+  src="https://discord.com/channels/837854557676503040/1108569174688682006/1108569960202113086">
 </div>
 
 ##
