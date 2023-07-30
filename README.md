@@ -23,4 +23,4 @@
   ##
 
 - 🔭 Trabalhando com um site de turismo
-- 🌱 Estudando Python, MySql, Css
+- 🌱 Estudando JavaScript
