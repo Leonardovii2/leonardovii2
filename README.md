@@ -20,5 +20,4 @@
   
   ##
 
-- 🔭 Trabalhando com um site de turismo
 - 🌱 Estudando JavaScript
