@@ -21,4 +21,4 @@
   
   ##
 
-- 🌱 Estudando JavaScript
+- 🌱 Estudando JavaScript, TypeScript
