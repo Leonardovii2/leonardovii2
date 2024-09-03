@@ -20,4 +20,4 @@
   
   ##
 
-- 🌱 Estudando JavaScript, TypeScript
+- 🌱 Estudando JavaScript, React
