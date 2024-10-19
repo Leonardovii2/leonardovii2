@@ -23,4 +23,4 @@ Cursando Engenharia de Software. Aqui você vai encontrar todos os meus projetos
   
   ##
 
-- 🌱 Estudando JavaScript, React
+- 🌱 Estudando JavaScript, React, Node.js, Express
