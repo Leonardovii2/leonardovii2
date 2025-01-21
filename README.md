@@ -10,7 +10,7 @@ Cursando Engenharia de Software. Aqui você vai encontrar todos os meus projetos
   <img align="center" alt="Leonardo-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Leonardo-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Leonardo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  
+  <img align="center" alt="Leonardo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgre/postgre-original.svg">
           
           
   
