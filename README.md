@@ -1,5 +1,6 @@
 ## Leonardo Viana  
-🎓 Estudante de Engenharia de Software | 💻 Apaixonado por programação e tecnologia
+🎓 Estudante de Engenharia de Software
+💻 Apaixonado por programação e tecnologia
 
 Aqui você vai encontrar meus projetos, desde trabalhos acadêmicos até iniciativas pessoais.  
 
