@@ -25,7 +25,6 @@
  <br>
 
 ---
-## Conecte-se comigo:
 <div>
   <a href="https://www.instagram.com/leonardovii2/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
@@ -34,6 +33,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
-
----
-- 🌱 Estudando JavaScript, React.js, Node.js, Express
