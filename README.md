@@ -17,10 +17,10 @@
 <!-- Distintivos de Linguagens e Habilidades -->
 <div style="display: inline_block" align="center"><br>
   <img  alt="Leo-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
-  <img  alt="Leo-Ts" src="https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white">&nbsp;
-   <img  alt="Leo-Ts" src="https://img.shields.io/badge/contextapi-%23007ACC.svg?style=for-the-badge&logo=contextapi&logoColor=white">&nbsp;
-   <img  alt="Leo-Ts" src="https://img.shields.io/badge/reactrouter-%23007ACC.svg?style=for-the-badge&logo=contextapi&logoColor=white">&nbsp;
-   <img  alt="Leo-Ts" src="https://img.shields.io/badge/postgresql-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
+  <img  alt="Leo-React" src="https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white">&nbsp;
+   <img alt="Leo-ReactContext"  src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react">&nbsp;
+   <img alt="Leo-ReactRouter"  src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">&nbsp;
+   <img  alt="Leo-PostgreSQL" src="https://img.shields.io/badge/postgresql-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
 </div>
  <br>
 
