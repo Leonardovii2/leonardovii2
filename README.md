@@ -1,10 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
-## Leonardo Viana  
-🎓 Estudante de Engenharia de Software
-💻 Apaixonado por programação e tecnologia
-
-Aqui você vai encontrar meus projetos, desde trabalhos acadêmicos até iniciativas pessoais.  
+<div align="center">
+  
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Leonardo Viana
+ 👩🏻‍💻 Sou um desenvolvedor fullstack, criativo e apaixonado por tecnologia.<br>
+ 👩‍🎓 Estudante de Engenharia de Software<br>
+</div>
 
 <div align="center">
   <a href="https://github.com/Leonardovii2"> 
