@@ -20,7 +20,7 @@
   <img  alt="Leo-React" src="https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white">&nbsp;
    <img alt="Leo-ReactContext"  src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react">&nbsp;
    <img alt="Leo-ReactRouter"  src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">&nbsp;
-  <img  alt="Leo-Express" src="https://img.shields.io/badge/express-%23007ACC.svg?style=for-the-badge&logo=express&logoColor=white">&nbsp;
+  <img  alt="Leo-Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white">&nbsp;
    <img  alt="Leo-PostgreSQL" src="https://img.shields.io/badge/postgresql-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
 </div>
  <br>
