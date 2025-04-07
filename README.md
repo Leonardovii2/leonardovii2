@@ -4,7 +4,7 @@
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Leonardo Viana<br>
 👨🏻‍💻 Sou um desenvolvedor fullstack, criativo e apaixonado por tecnologia.<br>
- 👩‍🎓 Estudante de Engenharia de Software<br>
+ 👨🏻‍🎓 Estudante de Engenharia de Software<br>
 </div>
 
 <div align="center">
