@@ -14,15 +14,15 @@
   </a>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<!-- Distintivos de Linguagens e Habilidades -->
+<div style="display: inline_block" align="center"><br>
+  <img  alt="Leo-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
+  <img  alt="Leo-Ts" src="https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white">&nbsp;
+   <img  alt="Leo-Ts" src="https://img.shields.io/badge/contextapi-%23007ACC.svg?style=for-the-badge&logo=contextapi&logoColor=white">&nbsp;
+   <img  alt="Leo-Ts" src="https://img.shields.io/badge/reactrouter-%23007ACC.svg?style=for-the-badge&logo=contextapi&logoColor=white">&nbsp;
+   <img  alt="Leo-Ts" src="https://img.shields.io/badge/postgresql-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
 </div>
+ <br>
 
 ---
 ## Conecte-se comigo:
