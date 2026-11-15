@@ -33,6 +33,8 @@
 ![Context API](https://img.shields.io/badge/Context--API-000000?style=for-the-badge&logo=react)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 </div>
 
@@ -48,21 +50,6 @@
 <img src="https://streak-stats.demolab.com?user=Leonardovii2&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [**Nome do projeto 1**](https://github.com/Leonardovii2/repo-1) | Breve descrição do que ele faz | `React` `Express` `PostgreSQL` |
-| [**Nome do projeto 2**](https://github.com/Leonardovii2/repo-2) | Breve descrição do que ele faz | `JavaScript` `Node.js` |
-| [**Nome do projeto 3**](https://github.com/Leonardovii2/repo-3) | Breve descrição do que ele faz | `React` `Context API` |
-
-> 💡 Troque pelos seus melhores projetos. Dá para usar também os cards automáticos:
-> `https://github-readme-stats.vercel.app/api/pin/?username=Leonardovii2&repo=NOME_DO_REPO&theme=tokyonight`
-
----
 
 ## 📫 Vamos conversar?
 
